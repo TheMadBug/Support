@@ -1,6 +1,7 @@
 ## Welcome to The Mad Bug Games
 
 * Important, this is just the support site. The code for the game is not currently open source, and the games can be found on iTunes.
+
 ## Dino Time
 
 Dino Time is a short iPhone game inspired by some arcade classics. Have your time traveller knock down some dino nest eggs into the dino egg carrier trucks. Unsurprisingly, dinos like to eat time travellers, but are known to slip on (or be squished by) falling nests. Flares that will stun dinos appear from time to time.
